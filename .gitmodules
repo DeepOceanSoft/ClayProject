@@ -1,0 +1,6 @@
+[submodule "Clay.Server"]
+	path = Clay.Server
+	url = https://github.com/DeepOceanSoft/Clay.Server.git
+[submodule "Clay.Web"]
+	path = Clay.Web
+	url = https://github.com/DeepOceanSoft/Clay.Web.git
